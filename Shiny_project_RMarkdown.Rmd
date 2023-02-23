@@ -1,7 +1,7 @@
 ---
 title: "Shiny Application and Reproducible Pitch"
-author: "Nikhil Agrawal"
-date: "2023-02-20"
+author: "Filippos Perdikos"
+date: "2023-02-23"
 output: ioslides_presentation
 ---
 
@@ -82,6 +82,6 @@ function(input, output) {
 
 The application is running [here](https://azcb0m-nikhil-agrawal.shinyapps.io/project/).
 
-The ui.R and Server.R code are in my [github repository](https://github.com/nikhilagrl18/ML_assignment/tree/Shiny-Application-and-Reproducible-Pitch).
+The ui.R and Server.R code are in my [github repository](https://github.com/perdikosphil/ML4).
 
 
